@@ -340,6 +340,7 @@
     <th>Resultado actual</th>
     <th>Severidad</th>
   </tr>
+   <!-- Bug 3 -->
   <tr>
     <td>P1_EC3</td>
     <td>Al hacer clic en el encabezado del área del mapa se muestra una descripción del área seleccionada.</td>
@@ -351,7 +352,90 @@
     <td>Se muestra descripción del área seleccionada.</td>
     <td>Grave</td>
   </tr>
-
+  <!-- Bug 5 -->
+  <tr>
+    <td>P1_EC5</td>
+    <td>Al seleccionar el campo "Desde", aparece un placeholder en lugar de un campo de búsqueda vacío.</td>
+    <td>
+      - Abrir la aplicación Urban Routes.<br>
+      - Hacer click en el campo "Desde".
+    </td>
+    <td>Se selecciona el campo "Desde". El cursor parpadea. El campo de búsqueda está vacío.</td>
+    <td>Se muestra el siguiente placeholder "East 2nd Street, 601" en el campo de busqueda "Desde"</td>
+    <td>Menor</td>
+  </tr>
+  <!-- Bug 6 -->
+  <tr>
+    <td>P1_EC6</td>
+    <td>Al buscar un objeto en el campo "Hasta" no se muestra la lista del objeto buscado.</td>
+    <td>
+      - Abrir la aplicación Urban Routes.<br>
+      - Escribir en el campo "Hasta" la palabra Subway.
+    </td>
+    <td>Se muestra una lista del objeto buscado "Subway".</td>
+    <td>No se muestra una lista del objeto buscado "Subway".</td>
+    <td>Crítico</td>
+  </tr>
+  <!-- Bug 7 -->
+  <tr>
+    <td>P1_EC7</td>
+    <td>No aparece el pin después de completar el campo "Desde".</td>
+    <td>
+      - Abrir la aplicación Urban Routes.<br>
+      - Completar el campo "Desde" con los datos "East 2nd Street, 601".
+    </td>
+    <td>El mapa hace zoom sobre el pin de la dirección ingresa en el campo "Desde".</td>
+    <td>No aparece el pin de la dirección ingresada en el campo "Desde".</td>
+    <td>Crítico</td>
+  </tr>
+  <!-- Bug 8 -->
+  <tr>
+    <td>P1_EC8</td>
+    <td>No aparece el pin después de completar el campo "Hasta".</td>
+    <td>
+      - Abrir la aplicación Urban Routes.<br>
+      - Completar el campo "Hasta" con los datos "1300 1st St".
+    </td>
+    <td>El mapa hace zoom sobre el pin de la dirección ingresa en el campo "Hasta".</td>
+    <td>No aparece el pin de la dirección ingresada en el campo "Hasta".</td>
+    <td>Crítico</td>
+  </tr>
+  <!-- Bug 12 -->
+  <tr>
+    <td>P1_EC12</td>
+    <td>Al hacer clic sobre la vista de pantalla completa, los objetos de la interfaz "Hasta" y "Desde" desaparecen.</td>
+    <td>
+      - Abrir la aplicación Urban Routes.<br>
+      - Hacer clic en el botón de pantalla completa (parte superior derecha del mapa).
+    </td>
+    <td>El modo de vista de pantalla completa se activa y las pestañas del navegador se ocultan. Todos los objetos de la interfaz del mapa están en su lugar. El nivel de zoom no cambia.</td>
+    <td>Los objetos "Hasta" y "Desde" desaparecen de la vista de pantalla completa.</td>
+    <td>Crítico</td>
+  </tr>
+  <!-- Bug 19 -->
+  <tr>
+    <td>P1_EC19</td>
+    <td>Al hacer zoom sobre los parques el icono del parque desaparece.</td>
+    <td>
+      - Abrir la aplicación Urban Routes.<br>
+      - Hacer zoom sobre un parque ejemplo "Vista Hermosa Natural Park".
+    </td>
+    <td>Se muestra el ícono del parque.</td>
+    <td>El icono del parque desaparece.</td>
+    <td>Menor</td>
+  </tr>
+  <!-- Bug 24 -->
+  <tr>
+    <td>P1_EC24</td>
+    <td>Al hacer clic sobre el ícono de Urban Routes, no se muestra la información sobre la aplicación.</td>
+    <td>
+      - Abrir la aplicación Urban Routes.<br>
+      - Hacer clic sobre el ícono Urban Routes (en la esquina superior izquierda de la aplicación).
+    </td>
+    <td>Se muestra la información sobre la aplicación.</td>
+    <td>No pasa nada; no se muestra la información sobre la aplicación.</td>
+    <td>Trivial</td>
+  </tr>
 
 
 
