@@ -232,7 +232,7 @@
     <td>OMITIDA</td>
     <td>OMITIDA</td>
     <td></td>
-    <td>La prueba fue omitida debido a que el botón "Cancelar" no funciona.</td>
+    <td rowspan="2">La prueba fue omitida debido a que el botón "Cancelar" no funciona.</td>
   </tr>
   <!-- Numero 26 -->
   <tr>
@@ -241,7 +241,6 @@
     <td>OMITIDA</td>
     <td>OMITIDA</td>
     <td></td>
-    <td>La prueba fue omitida debido a que el botón "Cancelar" no funciona.</td>
   </tr>
   <!-- Numero 27 -->
   <tr>
