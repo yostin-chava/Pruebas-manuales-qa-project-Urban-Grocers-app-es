@@ -1,8 +1,7 @@
 # Prueba 1
 
-En esta prueba se realizan pruebas de regresión para una aplicación Urban Routes.
+En esta prueba se realizan pruebas de regresión para la aplicación Urban Routes.
 
-El equipo de QA preparó casos de prueba enfocados en validar las funcionalidades clave durante las pruebas de regresión. El objetivo principal es ejecutar los pasos de prueba y establecer un estado apropiado para cada una.
+El equipo de QA preparó casos de prueba enfocados en validar las funcionalidades clave durante la regresión. El objetivo principal es ejecutar los pasos de prueba y establecer un estado apropiado para cada caso.
 
-Por otra parte se realizan informes de errores a todas aquellos casos que no aprobaron.
-
+Además, se elaboran informes de errores para todos aquellos casos que no aprobaron.
