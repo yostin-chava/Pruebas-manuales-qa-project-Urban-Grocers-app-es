@@ -1,4 +1,4 @@
-# Clases de equivalencia: horario de solicitud de taxi para la identificación de la velocidad (parámetro necesario para el cálculo de la duración y el costo del viaje)
+# Clases de equivalencia y los valores límite para los campos de entrada "Nombre" y "Apellido" en el formulario de licencia de conducir.
 
 <table>
   <tr>
