@@ -1,4 +1,4 @@
-# Tabla casos de prueba
+# Tabla lista de comprobación y resultados de las pruebas: pruebas de diseño
 
 <table>
   <tr>
