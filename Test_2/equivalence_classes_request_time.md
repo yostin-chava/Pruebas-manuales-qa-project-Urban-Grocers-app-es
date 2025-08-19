@@ -1,4 +1,4 @@
-# Clases de equivalencia
+# Clases de equivalencia: Horario solicitud taxi para la identificacion de la velocidad (parametro necesario para el calculo de la duracion y costo del viaje)
 
 <table>
   <tr>
