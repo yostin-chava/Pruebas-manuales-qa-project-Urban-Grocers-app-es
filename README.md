@@ -22,3 +22,4 @@ Cada carpeta contiene su propio archivo `README.md` con la descripción detallad
 - Navegador web (Chrome, Firefox)
 - Herramientas de desarrollo (DevTools)
 - Documentación manual en Markdown
+- Documentación de errores en JIRA.
