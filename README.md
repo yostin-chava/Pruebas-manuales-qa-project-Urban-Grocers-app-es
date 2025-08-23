@@ -1,11 +1,24 @@
-# Pruebas-manuales aplicacion web Urban Routes 
 
-Descripción del Proyecto
+# Pruebas Manuales - Aplicación Web **Urban Routes**
 
-En este proyecto se realizan pruebas de regresión para una aplicación de transporte llamada Urban Routes.
+## 🧾 Descripción del proyecto
 
-Urban Routes es una aplicación que crea rutas y calcula la duración y el precio del viaje para diferentes tipos de transporte.
-
-El equipo de QA preparó casos de prueba enfocados en validar las funcionalidades clave durante las pruebas de regresión. El objetivo principal es ejecutar los pasos de prueba y establecer un estado apropiado para cada una.
+**Urban Routes** es una aplicación web que permite generar rutas y calcular la duración y el costo de viajes utilizando diferentes medios de transporte.
 
 Como en cualquier aplicación, Urban Routes presenta algunos errores que también fueron documentados durante el proceso.
+
+Este repositorio contiene la documentación de pruebas manuales realizadas a la aplicación. Durante el proceso, se identificaron y documentaron errores (bugs), así como comportamientos esperados y no esperados del sistema.
+
+## 📁 Estructura del repositorio
+
+- `/Test_1`: Pruebas relacionadas con el proceso de reserva de vehículos.
+- `/Test_2`: Pruebas relacionadas con el funcionamiento del temporizador durante la reserva y uso del vehículo.
+- `/Test_3`: Pruebas centradas en la funcionalidad de cancelación de viajes.
+
+Cada carpeta contiene su propio archivo `README.md` con la descripción detallada de los casos de prueba realizados.
+
+## 🛠️ Herramientas utilizadas
+
+- Navegador web (Chrome, Firefox)
+- Herramientas de desarrollo (DevTools)
+- Documentación manual en Markdown
