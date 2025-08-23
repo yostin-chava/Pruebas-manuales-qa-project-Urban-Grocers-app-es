@@ -13,7 +13,7 @@ Este repositorio contiene la documentación de pruebas manuales realizadas a la 
 
 - `/Test_1`: Pruebas relacionadas con el proceso de reserva de vehículos.
 - `/Test_2`: Pruebas relacionadas con el funcionamiento del temporizador durante la reserva y uso del vehículo.
-- `/Test_3`: Pruebas centradas en la funcionalidad de cancelación de viajes.
+- `/Test_3`: Pruebas centradas en la validación de formularios, el diseño de la interfaz y logica de algunas funciones.
 
 Cada carpeta contiene su propio archivo `README.md` con la descripción detallada de los casos de prueba realizados.
 
