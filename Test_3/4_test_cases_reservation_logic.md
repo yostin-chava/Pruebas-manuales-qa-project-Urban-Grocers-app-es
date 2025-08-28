@@ -188,6 +188,7 @@
     <td rowspan="2">Google Chrome<br>800x600</td>
     <td rowspan="2">NO APROBADO</td>
     <td rowspan="2"><a href="https://yostinch.atlassian.net/browse/IES3-34?atlOrigin=eyJpIjoiMjZhYTVlZTQzNDk3NGE1MmI1NDJiZTAwNzk1N2RjMWIiLCJwIjoiaiJ9" target="_blank">Link a Jira</a></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>2</td>
@@ -204,6 +205,7 @@
     <td>Google Chrome<br>800x600</td>
     <td>NO APROBADO</td>
     <td><a href="https://yostinch.atlassian.net/browse/IES3-35?atlOrigin=eyJpIjoiYmIyZTE2ODViYjY1NGFiNGEzZmJmMTk2ZGViMzljZGMiLCJwIjoiaiJ9" target="_blank">Link a Jira</a></td>
+    <td></td>
   </tr>
   
 </tbody>
